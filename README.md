@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinayjain38
 - 👀 I’m Graduate in Data Science @University at Buffalo
 - 🌱 I’m currently working as a AI Engineer / Data Analyst
-- 💞️ I’m looking to collaborate on DS, ML, DL
+- 💞️ I’m looking to collaborate on real-life business problems using data expertise
 - 📫 How to reach me https://www.linkedin.com/in/vinayjain38/
 
 <!---
